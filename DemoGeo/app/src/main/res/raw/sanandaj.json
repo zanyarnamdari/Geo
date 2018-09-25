@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.99401855468749,
+              35.312673873909176
+            ],
+            [
+              46.99401855468749,
+              35.312673873909176
+            ],
+            [
+              46.99401855468749,
+              35.312673873909176
+            ],
+            [
+              46.99401855468749,
+              35.312673873909176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.97831153869629,
+              35.30496925237439
+            ],
+            [
+              46.96998596191406,
+              35.31190344477725
+            ],
+            [
+              46.96972846984863,
+              35.31246375760096
+            ],
+            [
+              46.969642639160156,
+              35.30538952337903
+            ],
+            [
+              46.971015930175774,
+              35.29978573048706
+            ],
+            [
+              46.975135803222656,
+              35.297263897071716
+            ],
+            [
+              46.98328971862793,
+              35.2958628445512
+            ],
+            [
+              47.00509071350098,
+              35.29579279128849
+            ],
+            [
+              47.01521873474121,
+              35.29677353144845
+            ],
+            [
+              47.01144218444824,
+              35.30342824001304
+            ],
+            [
+              47.01350212097168,
+              35.31183340540137
+            ],
+            [
+              47.01272964477539,
+              35.32191845107967
+            ],
+            [
+              47.00517654418945,
+              35.325770046324685
+            ],
+            [
+              46.99522018432617,
+              35.32380925712791
+            ],
+            [
+              46.98088645935058,
+              35.32114811001274
+            ],
+            [
+              46.968955993652344,
+              35.31988753607262
+            ],
+            [
+              46.96775436401367,
+              35.31645587411891
+            ],
+            [
+              46.97024345397949,
+              35.313094104888144
+            ],
+            [
+              46.97436332702637,
+              35.31365440946376
+            ],
+            [
+              46.97685241699219,
+              35.31008240129421
+            ],
+            [
+              46.97831153869629,
+              35.30496925237439
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3922db",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "تکیه و چمن"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.981186866760254,
+          35.30552961322875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ea1349",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "حسن آباد"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99474811553955,
+          35.30868157071786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "بلوار شبلی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.98380470275879,
+          35.31340927668954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4313ea",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "صفری"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.982903480529785,
+          35.31144818774997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5ea558",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "آبیدر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.97856903076171,
+          35.311273088211045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#52ba43",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "سیروس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.00487613677978,
+          35.31428474747176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "وکیل"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99049949645996,
+          35.31684106792015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f93504",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "مستوره اردلان"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99079990386963,
+          35.3186619592349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dd2046",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "سعدی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99350357055664,
+          35.29978573048706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "ویلاشهر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.984148025512695,
+          35.30024105314481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "دانشگاه آزاد"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0024299621582,
+          35.3027627937836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b7466d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "فردوسی"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.998353004455566,
+          35.31551039064649
+        ]
+      }
+    }
+  ]
+}
